@@ -4,5 +4,7 @@ This tool explors how much each state has reduced there CO<sub>2</sub> emissions
 
 [Here is the link to the live application](http://shiny.poulterlab.montana.edu/GHG/)
 
+![choroScreenshot](https://raw.githubusercontent.com/jeradhoy/ClimatePlanChoropleth/master/www/ChoroplethScreenshot1.png)
+
 ToDo:
 * Needs to be updated for new changes to climate action plan.
